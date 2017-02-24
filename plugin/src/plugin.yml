@@ -1,0 +1,6 @@
+name: SimplePlugin
+main: main.SimplePlugin
+version: 0
+commands:
+  warp:
+    usage: /<command>
